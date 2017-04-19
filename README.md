@@ -1,9 +1,14 @@
-# api documentation for  [ember (v1.0.2)](https://github.com/emberjs/ember#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-ember.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-ember) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-ember.svg)](https://travis-ci.org/npmdoc/node-npmdoc-ember)
+# npmdoc-ember
+
+#### api documentation for  [ember (v1.0.2)](https://github.com/emberjs/ember#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-ember.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-ember) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-ember.svg)](https://travis-ci.org/npmdoc/node-npmdoc-ember)
+
 #### A framework for creating ambitious web applications.
 
-[![NPM](https://nodei.co/npm/ember.png?downloads=true)](https://www.npmjs.com/package/ember)
+[![NPM](https://nodei.co/npm/ember.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/ember)
 
-[![apidoc](https://npmdoc.github.io/node-npmdoc-ember/build/screenCapture.buildNpmdoc.browser._2Fhome_2Ftravis_2Fbuild_2Fnpmdoc_2Fnode-npmdoc-ember_2Ftmp_2Fbuild_2Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-ember/build/apidoc.html)
+- [https://npmdoc.github.io/node-npmdoc-ember/build/apidoc.html](https://npmdoc.github.io/node-npmdoc-ember/build/apidoc.html)
+
+[![apidoc](https://npmdoc.github.io/node-npmdoc-ember/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-ember/build/apidoc.html)
 
 ![npmPackageListing](https://npmdoc.github.io/node-npmdoc-ember/build/screenCapture.npmPackageListing.svg)
 
@@ -34,41 +39,32 @@
     "main": "index.js",
     "maintainers": [
         {
-            "name": "charlesjolley",
-            "email": "charles@sproutcore.com"
+            "name": "charlesjolley"
         },
         {
-            "name": "ef4",
-            "email": "ef@alum.mit.edu"
+            "name": "ef4"
         },
         {
-            "name": "emberjs",
-            "email": "core@emberjs.com"
+            "name": "emberjs"
         },
         {
-            "name": "fivetanley",
-            "email": "stanley@stan.li"
+            "name": "fivetanley"
         },
         {
-            "name": "igort",
-            "email": "terzicigor@gmail.com"
+            "name": "igort"
         },
         {
-            "name": "rwjblue",
-            "email": "me@rwjblue.com"
+            "name": "rwjblue"
         },
         {
-            "name": "stefanpenner",
-            "email": "stefan.penner@gmail.com"
+            "name": "stefanpenner"
         },
         {
-            "name": "wycats",
-            "email": "wycats@gmail.com"
+            "name": "wycats"
         }
     ],
     "name": "ember",
     "optionalDependencies": {},
-    "readme": "ERROR: No README data found!",
     "repository": {
         "type": "git",
         "url": "git+https://github.com/emberjs/ember.git"
@@ -79,16 +75,6 @@
     "version": "1.0.2"
 }
 ```
-
-
-
-# <a name="apidoc.tableOfContents"></a>[table of contents](#apidoc.tableOfContents)
-
-#### [module ember](#apidoc.module.ember)
-
-
-
-# <a name="apidoc.module.ember"></a>[module ember](#apidoc.module.ember)
 
 
 
